@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PlayerApp": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
